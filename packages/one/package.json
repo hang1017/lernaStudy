@@ -1,5 +1,5 @@
 {
-  "name": "lerna-study-one-pkg-aassddddd",
+  "name": "lerna-study-one-pkg-aassdddddchenshuhang",
   "version": "0.0.5",
   "description": "> TODO: description",
   "author": "chen.shuhang <437132124@qq.com>",
@@ -26,5 +26,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "5e02890d0e0177aa812a3b322306c03c14aff21c"
+  "gitHead": "4d7eb26d08b691caa7778440ecf98ebc6e920881"
 }
